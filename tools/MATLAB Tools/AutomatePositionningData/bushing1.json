@@ -1,0 +1,32 @@
+{
+  "name": "bushing1",
+  "filename_STL": "D:\\\\\\\\CAD files\\\\\\\\Fabwave\\\\\\\\CAD_1_15_Classes\\\\\\\\Bushing\\\\\\\\STL\\\\\\\\09e0c9aa-bf2c-44a4-ac46-57073c6a1860.stl",
+  "indv_transf_steps_orientation": [
+    [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        -90,
+        0
+      ]
+    ]
+  ],
+  "indv_transf_steps_translation": [
+    [
+      [
+        0,
+        0,
+        -0.41666666666666663
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ]
+  ]
+}

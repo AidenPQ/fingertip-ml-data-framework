@@ -1,0 +1,12 @@
+# Normaliser fin de ligne
+* text=auto eol=lf
+
+# Traiter les binaires
+*.stl binary
+*.step binary
+*.obj binary
+*.pdf binary
+*.pptx binary
+
+# Notebooks, si tu en ajoutes plus tard
+*.ipynb linguist-generated=true

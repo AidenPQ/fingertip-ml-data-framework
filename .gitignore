@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints/
+.venv/
+.env
+.env.* 
+*.log
+
+# MATLAB / temp
+*.asv
+slprj/
+work/
+
+# OS/IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.code-workspace
+
+# Data (ne pas versionner les vrais CAD ni exports lourds)
+data/raw/**
+data/processed/**
+data/**/*.stl
+data/**/*.obj
+data/**/*.step
+data/**/*.stp
+!data/samples/**        # échantillons minuscules seulement
+
+# Mongo dumps / credentials
+dump/**
+secrets/**
+*.pem
+*.key
+*.crt
+
+# Archives
+*.zip
+*.7z
+*.tar
+*.gz

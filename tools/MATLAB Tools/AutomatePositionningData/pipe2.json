@@ -1,0 +1,32 @@
+{
+  "name": "pipe2",
+  "filename_STL": "D:\\CAD files\\Fabwave\\CAD16-24\\Pipe_Fittings\\STL\\exammodelsankuranubhav0.stl",
+  "indv_transf_steps_orientation": [
+    [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        -90,
+        0,
+        0
+      ]
+    ]
+  ],
+  "indv_transf_steps_translation": [
+    [
+      [
+        0,
+        0,
+        -3.728139241536458
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ]
+  ]
+}

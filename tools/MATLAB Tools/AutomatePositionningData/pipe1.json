@@ -1,0 +1,32 @@
+{
+  "name": "pipe1",
+  "filename_STL": "D:\\CAD files\\Fabwave\\CAD16-24\\Pipes\\STL\\00830e1f-727c-4866-a456-657bcf05eefa.stl",
+  "indv_transf_steps_orientation": [
+    [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        -90,
+        0,
+        0
+      ]
+    ]
+  ],
+  "indv_transf_steps_translation": [
+    [
+      [
+        0,
+        0,
+        -7.0260078112284337
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ]
+  ]
+}
